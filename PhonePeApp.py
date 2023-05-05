@@ -6,8 +6,8 @@ import plotly.graph_objects as go
 
 #?DATA GROUP 1
 #!code -
-        # TODO -- nitish_sawant(49460)
-        # TODO -- shreedhar_gehlot(49074)
+        # TODO -- nitish_sawant
+        # TODO -- shreedhar_gehlot
 
 
 
